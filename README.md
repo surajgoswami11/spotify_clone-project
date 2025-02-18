@@ -1,1 +1,1 @@
-SPOTIFY CLONE
+this is a UI clone of Spotify music player.
